@@ -12,7 +12,7 @@ improved the state-of-the-art results. Our proposed method achieves mAP 91.5% on
 outperforms the state-of-the-art models on a small datasets such as the synthetic-fiber rope damage dataset, resulting in
 a new top score of 88.2%.
 
-![overview](https://github.com/13411LCNet/13411LCNet/blob/06f5ab2c9f44b71834a2144f47b81d444add1ca3/ModelOverview.jpg)
+![overview](https://github.com/13411-LCNet/13411LCNet/blob/92449b65c275fb785152f816367da60151e9b686/ModelOverview.jpg)
 
 ## Installation
 
