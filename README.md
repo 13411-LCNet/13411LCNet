@@ -59,7 +59,7 @@ python train.py --print-freq 1000 --print_freq_val 1000 --batch-size 8 --datanam
 ### Start the COCO Verification with:
 
 ```bash
-python train.py --print-freq 1000 --print_freq_val 1000 --batch-size 8 --dataname coco14 --num_class 80 --isTrain False --pretrained --backbone TResnetL_V2 --CropLevels 2 --imgInpsize 896 --dataset_dir <Insert datasetDIR here> --output <Insert Output folder here> --resume <Insert pretrained model folder here> 
+python train.py --print-freq 120 --print_freq_val 120 --batch-size 8 --dataname coco14 --num_class 80 --isTrain False --pretrained --backbone TResnetL_V2 --CropLevels 2 --imgInpsize 896 --dataset_dir <Insert datasetDIR here> --output <Insert Output folder here> --resume <Insert pretrained model folder here> 
 ```
 
 ### Start the VOC2007 Verification with:
